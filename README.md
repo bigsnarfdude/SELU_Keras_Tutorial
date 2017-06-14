@@ -10,3 +10,6 @@
 Take a look at the benchmark comparison to understand MLP-SELU
 
 https://github.com/bigsnarfdude/SELU_Keras_Tutorial/blob/master/Basic_MLP_combined_comparison.ipynb
+
+![SELU COMPARISON](https://github.com/bigsnarfdude/SELU_Keras_Tutorial/blob/master/sleu.png)
+
