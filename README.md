@@ -7,7 +7,7 @@ This paper introduces new methods to significantly increase NN effectiveness usi
 
 1. By using a new activation function called SELU. 
 2. By using weight initialization technique (lecun_normal).
-3. By using a new Dropout function called AlphaDropout (set to a default value around 0.1).
+3. By using a new Dropout function called AlphaDropout (set to a default value around 0.1 for lecun_normal).
 
 NOTE: In the few experiments I have conducted, I have also observed a small bump in scores just changing the Dense Fully Connected layers using SELU/SSN.
 
