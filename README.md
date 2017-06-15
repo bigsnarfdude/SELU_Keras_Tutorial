@@ -3,9 +3,11 @@
 [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
 
 ```
-Constructing Self-Normalizing Neural Networks. (Authors) aim at constructing self-normalizing neural
-networks by adjusting the properties of the function g. Only two design choices are available for
-the function g: (1) the (SELU) activation function and (2) the initialization of the weights (lecun_normal).
+This paper introduces new methods to significantly increase NN effectiveness using three design choices:
+
+1. By using a new activation function called SELU. 
+2. By using specific initialization technique to the weights (lecun_normal).
+3. By using a new Dropout function called AlphaDropout (set to a default value around 0.1).
 ```
 
 ![SELU HOT](https://github.com/bigsnarfdude/SELU_Keras_Tutorial/blob/master/seluSoHotRightNow.jpg)
