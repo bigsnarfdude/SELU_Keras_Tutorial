@@ -6,7 +6,7 @@
 This paper introduces new methods to significantly increase NN effectiveness using three design choices:
 
 1. By using a new activation function called SELU. 
-2. By using specific initialization technique to the weights (lecun_normal).
+2. By using weight initialization technique (lecun_normal).
 3. By using a new Dropout function called AlphaDropout (set to a default value around 0.1).
 ```
 
