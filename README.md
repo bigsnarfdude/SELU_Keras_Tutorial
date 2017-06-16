@@ -28,3 +28,8 @@ https://github.com/bigsnarfdude/SELU_Keras_Tutorial/blob/master/Basic_MLP_combin
 
 ![SELU COMPARISON](https://github.com/bigsnarfdude/SELU_Keras_Tutorial/blob/master/sleu.png)
 
+#### Step #2
+
+Here is a comparison of final FC layer in RELU vs SELU
+
+https://github.com/bigsnarfdude/SELU_Keras_Tutorial/blob/master/FC_Layer_Comparison.ipynb
