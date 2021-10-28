@@ -19,6 +19,8 @@ Dense Fully Connected layers using SELU/SSN.
 
 ![SELU HOT](https://github.com/bigsnarfdude/SELU_Keras_Tutorial/blob/master/seluSoHotRightNow.jpg)
 
+.
+
 
 #### Step #1
 
